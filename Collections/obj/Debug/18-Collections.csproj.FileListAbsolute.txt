@@ -1,0 +1,7 @@
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Collections\bin\Debug\Collections.exe.config
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Collections\bin\Debug\Collections.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Collections\bin\Debug\Collections.pdb
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Collections\obj\Debug\18-Collections.csproj.AssemblyReference.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Collections\obj\Debug\18-Collections.csproj.CoreCompileInputs.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Collections\obj\Debug\Collections.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Collections\obj\Debug\Collections.pdb

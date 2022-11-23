@@ -1,0 +1,7 @@
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Inheritance\obj\Debug\11-Inheritance.csproj.AssemblyReference.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Inheritance\obj\Debug\11-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb

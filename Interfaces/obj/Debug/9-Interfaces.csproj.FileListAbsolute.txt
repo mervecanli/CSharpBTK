@@ -1,0 +1,7 @@
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Interfaces\obj\Debug\9-Interfaces.csproj.AssemblyReference.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Interfaces\obj\Debug\9-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Interfaces\obj\Debug\Interfaces.pdb

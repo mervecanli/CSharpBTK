@@ -1,0 +1,7 @@
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Events\bin\Debug\Events.exe.config
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Events\bin\Debug\Events.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Events\bin\Debug\Events.pdb
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Events\obj\Debug\Events.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Events\obj\Debug\Events.pdb

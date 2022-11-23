@@ -1,0 +1,7 @@
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.pdb

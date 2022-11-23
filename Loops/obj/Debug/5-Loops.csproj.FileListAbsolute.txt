@@ -1,0 +1,6 @@
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Loops\bin\Debug\Loops.exe.config
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Loops\bin\Debug\Loops.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Loops\bin\Debug\Loops.pdb
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Loops\obj\Debug\5-Loops.csproj.CoreCompileInputs.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Loops\obj\Debug\Loops.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Loops\obj\Debug\Loops.pdb

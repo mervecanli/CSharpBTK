@@ -1,0 +1,7 @@
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Exceptions\obj\Debug\19-Exceptions.csproj.AssemblyReference.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Exceptions\obj\Debug\19-Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Exceptions\obj\Debug\Exceptions.pdb

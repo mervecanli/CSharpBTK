@@ -1,0 +1,7 @@
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\6-Strings\bin\Debug\6-Strings.exe.config
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\6-Strings\bin\Debug\6-Strings.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\6-Strings\bin\Debug\6-Strings.pdb
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\6-Strings\obj\Debug\6-Strings.csproj.CoreCompileInputs.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\6-Strings\obj\Debug\6-Strings.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\6-Strings\obj\Debug\6-Strings.pdb
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\6-Strings\obj\Debug\6-Strings.csproj.AssemblyReference.cache

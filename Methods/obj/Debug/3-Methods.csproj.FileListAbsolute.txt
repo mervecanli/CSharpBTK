@@ -1,0 +1,7 @@
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Methods\bin\Debug\Methods.exe.config
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Methods\bin\Debug\Methods.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Methods\bin\Debug\Methods.pdb
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Methods\obj\Debug\3-Methods.csproj.AssemblyReference.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Methods\obj\Debug\3-Methods.csproj.CoreCompileInputs.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Methods\obj\Debug\Methods.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Methods\obj\Debug\Methods.pdb

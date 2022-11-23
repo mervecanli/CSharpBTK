@@ -1,0 +1,7 @@
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Constructors\bin\Debug\Constructors.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Constructors\bin\Debug\Constructors.pdb
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Constructors\obj\Debug\16-Constructors.csproj.AssemblyReference.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Constructors\obj\Debug\16-Constructors.csproj.CoreCompileInputs.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Constructors\obj\Debug\Constructors.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Constructors\obj\Debug\Constructors.pdb

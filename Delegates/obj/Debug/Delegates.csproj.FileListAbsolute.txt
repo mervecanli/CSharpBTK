@@ -1,0 +1,7 @@
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Delegates\bin\Debug\Delegates.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Delegates\bin\Debug\Delegates.pdb
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Delegates\obj\Debug\Delegates.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\Delegates\obj\Debug\Delegates.pdb

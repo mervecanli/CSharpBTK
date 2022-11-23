@@ -1,0 +1,7 @@
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\VirtualMethods\obj\Debug\12-VirtualMethods.csproj.AssemblyReference.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\VirtualMethods\obj\Debug\12-VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\mcanli\Desktop\mrv\KAMP\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.pdb
